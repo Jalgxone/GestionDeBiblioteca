@@ -4,7 +4,6 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Biblioteca</title>
-    <link rel="stylesheet" href="Views/assets/style.css">
     </head>
 <body>
 <?php if (session_status() === PHP_SESSION_NONE) { session_start(); } ?>
